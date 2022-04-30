@@ -1,4 +1,4 @@
-## Hey eu sou Bruno Irvayni, criador de conteúdo de programação e tecnologia!
+## Programador, Analista de Testes, Pen Tester
 <div align="center">
   <a href="https://github.com/BrunoVsCore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
