@@ -1,5 +1,5 @@
 ## Programador, Analista de Testes, Pen Tester
-<img align="left" src="ETHICAL.png" />
+<img align="left" height="200" width="200" src="ETHICAL.png" />
 <img align= />
 <div align="center">
   <a href="https://github.com/BrunoVsCore">
