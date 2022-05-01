@@ -1,9 +1,9 @@
 ## Programador, Analista de Testes, Pen Tester
-<img align="left" height="200" width="200" src="this.png" />
+<img align="left" height="200" width="200" src="THIS.png" />
 <div align="center">
   <a href="https://github.com/BrunoVsCore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVsCore&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVsCore&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
  
