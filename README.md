@@ -1,5 +1,6 @@
 ## Programador, Analista de Testes, Pen Tester
-<img align="ETHICAL.png" />
+<img align="left" src="ETHICAL.png" />
+<img align= />
 <div align="center">
   <a href="https://github.com/BrunoVsCore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
