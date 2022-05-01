@@ -1,6 +1,6 @@
 ## Programador, Analista de Testes, Pen Tester
 <img align="left" height="200" width="200" src="ETHICAL.png" />
-<img align= />
+<img align="left"  src= "darkSnake.svg" />
 <div align="center">
   <a href="https://github.com/BrunoVsCore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,6 +27,7 @@
   <a href = "mailto:brunoirvaynisp@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-irvayni-a2590a197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  
  
 </div>
