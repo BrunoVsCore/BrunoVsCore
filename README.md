@@ -1,7 +1,7 @@
 ## Programador, Analista de Testes, Pen Tester
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)&nbsp;
 [![Open Source ❤️](https://badgen.net/badge/Open%20Source%20/%E2%9D%A4/blue?icon=github)](https://github.com/reed-jones/phase/)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/reed-jones.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reed-jones?tab=followers)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/reed-jones.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BrunoVsCore?tab=followers)&nbsp; 
 
 <div align="center">
 
