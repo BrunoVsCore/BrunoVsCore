@@ -4,6 +4,11 @@
 </p>
 
 
+##
+<img align="left" alt="META" height="200" width = '450' style="border-radius: 500px;" src="META.jpeg">
+
+
+
   
 
 
@@ -11,8 +16,8 @@
 <div align="center">
 
   <a href="https://github.com/BrunoVsCore"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=rose_pine"&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=rose_pine "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=github_dark"&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
