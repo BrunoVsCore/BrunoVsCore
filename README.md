@@ -40,3 +40,7 @@
 
 
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BrunoVsCore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrunoVsCore&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
