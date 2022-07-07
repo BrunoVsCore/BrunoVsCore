@@ -1,5 +1,4 @@
 ## Programador, Analista de Testes, Pen Tester
-<img align="left" height="200" width="200" src="ll.png" />
 <div align="center">
   <a href="https://github.com/BrunoVsCore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -14,10 +13,11 @@
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="right" height="200" width="200" src="ll.png" />
+  
     
    
              
