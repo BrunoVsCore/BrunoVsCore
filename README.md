@@ -6,8 +6,9 @@
 
 
 <div align="center">
-  <img align="center" alt="META" height="150" width = "300" style="border-radius: 500px;" src="META.jpeg">
+  <img align="center" alt="META" height="250" width = "300" style="border-radius: 500px;" src="META.jpeg">
 </div>  
+ 
  
 ##
 <div align="center">
