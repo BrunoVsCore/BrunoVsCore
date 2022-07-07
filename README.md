@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=BrunoVsCore.BrunoVsCore)&nbsp;
 [![Open Source ❤️](https://badgen.net/badge/Open%20Source%20/%E2%9D%A4/blue?icon=github)](https://github.com/BrunoVsCore/BrunoVsCore)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/BrunoVsCore?style=socia?lstyle=social&label=Follow&maxAge=2592000)](https://github.com/BrunoVsCore?tab=followers)&nbsp; 
+
 
 
 <div align="center">
@@ -28,8 +28,7 @@
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
+  <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 </div> 
   
   ## 
@@ -41,3 +40,6 @@
   <a href="https://www.linkedin.com/in/bruno-irvayni-a2590a197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img align="left"  src= "darkSnake.svg" />
 </div>
+
+
+
