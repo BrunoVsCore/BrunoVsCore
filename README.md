@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-
-
-
- 
- 
-##
 <div align="center">
   <a href="https://github.com/BrunoVsCore"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVsCore&show_icons=true&theme=github_dark"&include_all_commits=true&count_private=true"/>
