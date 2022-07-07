@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="META" height="150" width = "500" style="border-radius: 500px;" src="META.jpeg">
+<img align="center" alt="META" height="150" width = "800" style="border-radius: 500px;" src="META.jpeg">
 
 
 ##
