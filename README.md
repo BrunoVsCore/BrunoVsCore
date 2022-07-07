@@ -4,11 +4,11 @@
 </p>
 
 
+
+<img align="center" alt="META" height="200" width = '450' style="border-radius: 500px;" src="META.jpeg">
+
+
 ##
-<img align="left" alt="META" height="200" width = '450' style="border-radius: 500px;" src="META.jpeg">
-
-
-
   
 
 
