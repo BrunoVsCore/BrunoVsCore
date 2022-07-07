@@ -23,7 +23,7 @@
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img align="right" alt="META" height="150" width = "150" style="border-radius: 200px;" src="META.jpeg"/>                                                               </div> 
+  <img align="right" alt="META" height="150" width = "150" style="border-radius: 50px;" src="META.jpeg"/>                                                               </div> 
   
   ## 
                                                                                                        
