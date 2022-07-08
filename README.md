@@ -25,7 +25,7 @@
   <img align="center" alt="Bruno-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bruno-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Bruno-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-  <img align="right" alt="META" height="130" width="130" style="border-radius:50px;" src="META.jpeg" />                                                               </div> 
+  <img align="right"  alt="META" height="130" width="130" style="border-radius:50px;" src="META.jpeg" />                                                               </div> 
   
   ## 
                                                                                                        
@@ -35,7 +35,7 @@
    <a href="https://discord.gg/udxd37qB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunoirvaynisp@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-irvayni-a2590a197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<! -- <img align="left"  src= "darkSnake.svg" />
+
                                              
 </div>
 
