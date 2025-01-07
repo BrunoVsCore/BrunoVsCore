@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Portifolio: https://brunovscore.github.io/Portifolio/
+  <b>Portifólio: https://brunovscore.github.io/Portifolio/<b>
 </p>
 
 
