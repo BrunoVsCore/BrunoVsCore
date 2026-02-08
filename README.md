@@ -49,7 +49,7 @@
 
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-BrunoVscore.BrunoVsCore)&nbsp;
 [![Open Source ❤️](https://badgen.net/badge/Open%20Source%20/%E2%9D%A4/blue?icon=github)](https://github.com/BrunoVsCore/BrunoVsCore/)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/BrunoVsCore.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BrunoVsCore?tab=followers)&nbsp;
+##[![GitHub followers](https://img.shields.io/github/followers/BrunoVsCore.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BrunoVsCore?tab=followers)&nbsp;
 
 
 
